@@ -59,4 +59,7 @@ wait(wt)
 opentab(f"https://pirated-games.net/?s={search}")
 wait(wt)
 opentab(f"https://dodi-repacks.site/?s={search}")
-
+wait(wt)
+opentab(f"https://gogunlocked.com/?s={search}")
+wait(wt)
+opentab(f"https://extrogames.com/search?q={search}")
