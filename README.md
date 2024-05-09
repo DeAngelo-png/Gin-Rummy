@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Gin-Rummy</h1>
-<p align="center">A simple piracy games website checker. Checks various websites for you instead of having to search multiple sites for the game you want. </p>
+<p align="center">A simple repack search aggregator Checks various websites for you instead of having to search multiple sites for the game you want. </p>
 
 <br>
 
